@@ -1,1 +1,2 @@
-# state-space-composition
+# Compositional planning
+Code to appear soon...
