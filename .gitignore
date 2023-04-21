@@ -1,0 +1,14 @@
+
+ContinuousPlanning/sim/
+ContinuousPlanning/__pycache__/
+
+DiscreteHoming/data/
+DiscreteHoming/__pycache__/
+
+DiscretePlanning/sim/
+DiscretePlanning/__pycache__/
+
+HierarchicalPlanning/sim/
+HierarchicalPlanning/__pycache__/
+
+*.DS_Store
